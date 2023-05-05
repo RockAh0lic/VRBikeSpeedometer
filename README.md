@@ -42,3 +42,6 @@ The code contains a configuration zone that should be modified according to your
 To use this code, you will need an Arduino board, a Bluetooth module, and a tachometer sensor. Connect the sensor to the analog input pin specified in the configuration zone and connect the Bluetooth module to the digital input pins specified in the configuration zone. Upload the code to the Arduino board and power it up. Use a Bluetooth terminal application to receive the RPM values transmitted by the Arduino board.
 
 Note that this code is designed to work with a sensor that outputs a digital signal (i.e. a hall-effect sensor). If your sensor outputs an analog signal, you will need to modify the code accordingly.
+
+# Pictures
+Can be found in the 'VR Bike Thingy' folder
